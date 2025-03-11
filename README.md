@@ -73,6 +73,19 @@ This project uses the following technologies:
 
 ---
 
+## Images
+<img src="https://github.com/user-attachments/assets/5be11646-1818-4334-ad5d-3aabbbe79517" width=250px>
+<img src="https://github.com/user-attachments/assets/ea09908f-b606-4787-83d1-bbdb769f15f8" width=250px>
+<img src="https://github.com/user-attachments/assets/7b231f96-ffcc-4a0b-9727-417ce1c260fa" width=250px>
+<img src="https://github.com/user-attachments/assets/05d8c550-55b6-421c-a4b3-6d89846d6b52" width=250px>
+<img src="https://github.com/user-attachments/assets/2738591a-fb3c-4224-b4ae-ddcaa01b7404" width=250px>
+<img src="https://github.com/user-attachments/assets/5aa4c5d6-d7a1-4b82-8413-847a46180151" width=250px>
+<img src="https://github.com/user-attachments/assets/8e4a9400-2e94-41d9-941d-93ad593fb8a0" width=250px>
+<img src="https://github.com/user-attachments/assets/9fd99a6c-af32-435f-b12b-e9b61b03e815" width=250px>
+
+
+
+
 ## Installation
 
 ### Clone the repository
@@ -81,3 +94,7 @@ Start by cloning the repository to your local machine. Open your terminal and ru
 
 ```bash
 git clone https://github.com/yourusername/textify-app.git
+
+
+
+
